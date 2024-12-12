@@ -109,12 +109,5 @@ Security Enhancements: Strengthen the security of RabbitMQ containers by using c
 
 Monitoring Tools: Integrate RabbitMQ with monitoring tools like Prometheus and Grafana for detailed metrics and alerts.
 
-# References:
-
-RabbitMQ Official Website
-
-Docker Documentation
-
-RabbitMQ Docker Image
 
 
